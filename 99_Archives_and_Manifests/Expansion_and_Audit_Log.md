@@ -24,3 +24,17 @@
 
 ## 2026-11-23 Wave 3 Pending Recapture
 - See `PENDING_RECAPTURE_REGISTER.csv` in this folder. 9 URL(s) pending recapture; no captures fabricated.
+
+## 2026-11-23 Wave 3 Pending-Recapture Retry
+- Attempted browser recapture for 9 pending URLs in this repo.
+- Captured OK: 3; still pending/non-substantive: 6.
+- All captures are PUBLIC_CAPTURE_UNAUTHENTICATED, PENDING_LEGAL_REVIEW. No VERIFIED status assigned.
+- Non-substantive/challenge captures flagged in CITATION_INDEX and meta.
+- See `99_Archives_and_Manifests/PENDING_RECAPTURE_REGISTER.csv`.
+
+## 2026-11-23 Wave 3 Pending-Recapture Reconciliation (Corrective)
+- Corrective reconciliation per adversarial review: all meta/CITATION-flagged non-substantive or pending-recapture items are now reflected in `PENDING_RECAPTURE_REGISTER.csv`.
+- Flagged non-substantive/pending items in register: 7; substantive captured items (meta substantive=true, no quality_flag): 19.
+- Normalized OK browser-capture meta `substantive` from null to true where applicable (19 files).
+- Counts above reflect full flagged capture state, not only the 35-URL retry subset.
+- All captures remain PUBLIC_CAPTURE_UNAUTHENTICATED, PENDING_LEGAL_REVIEW; no VERIFIED status assigned.

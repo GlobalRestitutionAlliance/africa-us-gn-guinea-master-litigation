@@ -1,0 +1,16 @@
+{
+  "url": "https://www.ohchr.org/en/countries/guinea",
+  "final_url": "https://www.ohchr.org/en/countries/guinea",
+  "title": "UN OHCHR Guinea",
+  "fetched_at": "2026-11-23T06:02:14.098355Z",
+  "http_status": "unknown_browser_outerhtml_capture",
+  "content_type": "text/html; browser-rendered-outerHTML",
+  "bytes": 80020,
+  "sha256": "96b540a69c99de63e4aeb1544ba379581e047f673229b5005f1eaafb9487f234",
+  "provenance": "browser-rendered-outerHTML",
+  "custodian": "OpenCode/browser-fallback",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Captured via browser fallback; not authenticated; pending legal review.",
+  "substantive": true
+}
