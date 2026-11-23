@@ -21,3 +21,6 @@
   - `01_Pleadings_and_Complaints/master_federal_court_complaint_guinea_v1.md`
   - `01_Pleadings_and_Complaints/master_federal_court_complaint_guinea_v1.docx`
 - **Audit Verification:** Strict LF line endings enforced, SHA-256 manifest compiled in `VERIFICATION_KEYS/sha256_manifest.txt`.
+
+## 2026-11-23 Wave 3 Pending Recapture
+- See `PENDING_RECAPTURE_REGISTER.csv` in this folder. 9 URL(s) pending recapture; no captures fabricated.
