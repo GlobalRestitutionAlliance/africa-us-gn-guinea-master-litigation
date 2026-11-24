@@ -23,6 +23,5 @@
     "Access-Control-Expose-Headers": "Request-Context",
     "X-Powered-By": "ASP.NET",
     "Strict-Transport-Security": "max-age=31536000"
-  },
-  "substantive": true
+  }
 }
