@@ -22,13 +22,5 @@
     "Access-Control-Max-Age": "86400",
     "Access-Control-Allow-Methods": "OPTIONS,GET,POST",
     "Access-Control-Expose-Headers": "x-amzn-waf-action"
-  },
-  "fetched_at": "2026-11-23T02:24:01.894279Z",
-  "http_status": "unknown_empty_capture",
-  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
-  "legal_review_status": "PENDING_LEGAL_REVIEW",
-  "substantive": false,
-  "quality_flag": "EMPTY_CAPTURE_PENDING_RECAPTURE",
-  "annotation_note": "Empty capture artifact (0 bytes); pending recapture.",
-  "provenance": "direct-harvest"
+  }
 }
